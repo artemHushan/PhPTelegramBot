@@ -1,0 +1,218 @@
+[
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.AdminController",
+    "Method": "ChangeUserRole",
+    "RelativePath": "api/Admin/changeRole/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "newRole",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.AdminController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Admin/getUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.AdminController",
+    "Method": "GetLast10PhPScripts",
+    "RelativePath": "api/Admin/lastPHPScripts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.PHPScriptController",
+    "Method": "AddAppBundle",
+    "RelativePath": "api/PHPScript/addAppBundle/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "appBundle",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.PHPScriptController",
+    "Method": "AddAppName",
+    "RelativePath": "api/PHPScript/addAppName/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "appName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.PHPScriptController",
+    "Method": "AddServerCredits",
+    "RelativePath": "api/PHPScript/addServerCredits/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "TelegramPHPBotAPI.Models.ServerCreditsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.PHPScriptController",
+    "Method": "GenerateSecret",
+    "RelativePath": "api/PHPScript/generateSecret/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.PHPScriptController",
+    "Method": "UploadPhpScriptAsync",
+    "RelativePath": "api/PHPScript/upload/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "directoryPath",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.UserSessionController",
+    "Method": "Authorize",
+    "RelativePath": "api/UserSession/authorize/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.UserSessionController",
+    "Method": "IsAuthorized",
+    "RelativePath": "api/UserSession/isAuthorized/{telegramId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.UserSessionController",
+    "Method": "Logout",
+    "RelativePath": "api/UserSession/logout/{telegramId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramPHPBotAPI.Controllers.UserSessionController",
+    "Method": "GetUserRole",
+    "RelativePath": "api/UserSession/role/{telegramId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telegramId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

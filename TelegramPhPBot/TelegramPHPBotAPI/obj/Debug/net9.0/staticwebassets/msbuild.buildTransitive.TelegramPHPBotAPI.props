@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TelegramPHPBotAPI.props" />
+</Project>
