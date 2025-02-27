@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhPTelegramBot\\TelegramPhPBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\addappbundlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\addappbundlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\addappnamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\addappnamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\currentphpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\currentphpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\uploadphpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\uploadphpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\servercreditsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\servercreditsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\servercredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\servercredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\secretresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\secretresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\getscriptshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\getscriptshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\models\\servercredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\models\\servercredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\models\\phpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\models\\phpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\getuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\getuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\models\\apisecretresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\models\\apisecretresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\managers\\phpscriptmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\managers\\phpscriptmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\managers\\adminfuncmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\managers\\adminfuncmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\interfaces\\inonpersonalizedmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\interfaces\\inonpersonalizedmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\interfaces\\imessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\interfaces\\imessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\interfaces\\ibasemessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\interfaces\\ibasemessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\servercreditshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\servercreditshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\logoutmessagehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\logoutmessagehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\greetingmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\greetingmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\generatesecrethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\generatesecrethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\defaultmessagehandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\defaultmessagehandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\changerolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\changerolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\authmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\authmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\uploadscripthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\uploadscripthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\startcommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\startcommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\handlers\\rolemessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\handlers\\rolemessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\services\\uploadphpscriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\services\\uploadphpscriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\services\\secretgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\services\\secretgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\services\\phpscriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\services\\phpscriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\controllers\\phpscriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\controllers\\phpscriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\services\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\services\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\infrastructure\\services\\phpapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\infrastructure\\services\\phpapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbot\\core\\usecase\\handlemessageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDFA0CB-CBA3-428F-8C94-E04558CD5962}|TelegramPhPBot\\TelegramPhPBot.csproj|solutionrelative:telegramphpbot\\core\\usecase\\handlemessageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|d:\\phptelegrambot\\telegramphpbot\\telegramphpbotapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72B8B07-1545-4BBC-9A13-EEC5667CFCCF}|TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj|solutionrelative:telegramphpbotapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\Users.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\Users.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:52:14.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerCreditsRequest.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\ServerCreditsRequest.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\ServerCreditsRequest.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\ServerCreditsRequest.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\ServerCreditsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:52:11.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServerCredit.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\ServerCredit.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\ServerCredit.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\ServerCredit.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\ServerCredit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:52:09.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentPhpScript.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\CurrentPhpScript.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\CurrentPhpScript.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\CurrentPhpScript.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\CurrentPhpScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:51:44.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadPhPScript.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\UploadPhPScript.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\UploadPhPScript.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\UploadPhPScript.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\UploadPhPScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:34:16.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAppNameHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\AddAppNameHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\AddAppNameHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\AddAppNameHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\AddAppNameHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:12:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddAppBundleHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\AddAppBundleHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\AddAppBundleHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\AddAppBundleHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\AddAppBundleHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:11:20.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecretResponse.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\SecretResponse.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\SecretResponse.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\SecretResponse.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\SecretResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:52:08.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\Response.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\Response.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:52:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServerCredits.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\ServerCredits.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Models\\ServerCredits.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\ServerCredits.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Models\\ServerCredits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:50:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhPScript.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\PhPScript.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Models\\PhPScript.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\PhPScript.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Models\\PhPScript.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:48:42.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUserHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GetUserHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\GetUserHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GetUserHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\GetUserHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:26:38.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Models\\User.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\User.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:23:26.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetScriptsHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GetScriptsHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\GetScriptsHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GetScriptsHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\GetScriptsHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwA0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:25:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseUser.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\ResponseUser.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Models\\ResponseUser.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Models\\ResponseUser.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Models\\ResponseUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:23:40.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Models\\AuthResponse.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Models\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:48:42.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Services\\AdminService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Services\\AdminService.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Services\\AdminService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:22:35.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Services\\APIService.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Services\\APIService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Services\\APIService.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Services\\APIService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:49:17.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "APISecretResponse.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\APISecretResponse.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Models\\APISecretResponse.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\APISecretResponse.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Models\\APISecretResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:48:40.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminFuncManager.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Managers\\AdminFuncManager.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Managers\\AdminFuncManager.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Managers\\AdminFuncManager.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Managers\\AdminFuncManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:25:21.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INonPersonalizedMessageHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Interfaces\\INonPersonalizedMessageHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Interfaces\\INonPersonalizedMessageHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Interfaces\\INonPersonalizedMessageHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Interfaces\\INonPersonalizedMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:47:32.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMessageHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Interfaces\\IMessageHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Interfaces\\IMessageHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Interfaces\\IMessageHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Interfaces\\IMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:47:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBaseMessageHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Interfaces\\IBaseMessageHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Interfaces\\IBaseMessageHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Interfaces\\IBaseMessageHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Interfaces\\IBaseMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:47:31.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PHPScriptManager.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Managers\\PHPScriptManager.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Managers\\PHPScriptManager.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Managers\\PHPScriptManager.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Managers\\PHPScriptManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:49:12.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Models\\APIResponse.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Models\\APIResponse.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Models\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:49:58.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenerateSecretHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GenerateSecretHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\GenerateSecretHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GenerateSecretHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\GenerateSecretHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:13:38.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DefaultMessageHandler .cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\DefaultMessageHandler .cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\DefaultMessageHandler .cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\DefaultMessageHandler .cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\DefaultMessageHandler .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:53:33.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GreetingMessageHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GreetingMessageHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\GreetingMessageHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\GreetingMessageHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\GreetingMessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:52:56.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LogoutMessageHandle.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\LogoutMessageHandle.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\LogoutMessageHandle.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\LogoutMessageHandle.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\LogoutMessageHandle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:52:55.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServerCreditsHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\ServerCreditsHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\ServerCreditsHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\ServerCreditsHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\ServerCreditsHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:53:14.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChangeRoleHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\ChangeRoleHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\ChangeRoleHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\ChangeRoleHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\ChangeRoleHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:52:53.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthMessageHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\AuthMessageHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\AuthMessageHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\AuthMessageHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\AuthMessageHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:13:21.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UploadScriptHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\UploadScriptHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\UploadScriptHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\UploadScriptHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\UploadScriptHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawCwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:14:46.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StartCommandHandler .cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\StartCommandHandler .cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\StartCommandHandler .cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\StartCommandHandler .cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\StartCommandHandler .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:14:43.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoleMessageHandler.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\RoleMessageHandler.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\Handlers\\RoleMessageHandler.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\Handlers\\RoleMessageHandler.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\Handlers\\RoleMessageHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:52:57.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UploadPHPScriptService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\UploadPHPScriptService.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Services\\UploadPHPScriptService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\UploadPHPScriptService.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Services\\UploadPHPScriptService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvzYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:26:47.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SecretGeneratorService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\SecretGeneratorService.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Services\\SecretGeneratorService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\SecretGeneratorService.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Services\\SecretGeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:50:50.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserSessionService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\UserSessionService.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Services\\UserSessionService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\UserSessionService.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Services\\UserSessionService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:35:08.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PHPScriptService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\PHPScriptService.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Services\\PHPScriptService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\PHPScriptService.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Services\\PHPScriptService.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:12:28.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Services\\AdminService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Services\\AdminService.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Services\\AdminService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:09:27.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PHPScriptController.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Controllers\\PHPScriptController.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Controllers\\PHPScriptController.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Controllers\\PHPScriptController.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Controllers\\PHPScriptController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:22:05.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PHPApiService.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Services\\PHPApiService.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Infrastructure\\Services\\PHPApiService.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Infrastructure\\Services\\PHPApiService.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Infrastructure\\Services\\PHPApiService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:18:05.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HandleMessageUseCase.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\UseCase\\HandleMessageUseCase.cs",
+              "RelativeDocumentMoniker": "TelegramPhPBot\\Core\\UseCase\\HandleMessageUseCase.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPhPBot\\Core\\UseCase\\HandleMessageUseCase.cs",
+              "RelativeToolTip": "TelegramPhPBot\\Core\\UseCase\\HandleMessageUseCase.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAhwC4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:29:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TelegramPHPBotAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\PhPTelegramBot\\TelegramPhPBot\\TelegramPHPBotAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TelegramPHPBotAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:19:50.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

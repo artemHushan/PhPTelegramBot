@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "TelegramPhPBot\\TelegramPhPBot.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TelegramPHPBotAPI\\TelegramPHPBotAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
